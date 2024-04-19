@@ -1,0 +1,16 @@
+{
+  "id": "duplicate-and-edit",
+  "title": "Duplicate And Edit",
+  "version": "1.0.0",
+  "scripts": ["scripts/init.js", "scripts/dialog.js", "scripts/names.js", "scripts/actor.js"],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Everbbq",
+      "flags": {}
+    }
+  ]
+}
